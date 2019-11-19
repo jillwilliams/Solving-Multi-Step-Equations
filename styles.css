@@ -1,0 +1,23 @@
+body {
+    font-family: "Vibes", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(lightgreen, darkgreen);
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+#img1, #img2, #img3, #img4, #img5 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+}
