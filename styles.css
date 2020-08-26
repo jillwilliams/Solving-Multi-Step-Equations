@@ -14,7 +14,10 @@ h1 {
     height: auto;
     margin-left: 25%;
     margin-right: 25%;
-    
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 2px black solid;
 }
 footer {
     text-align: center;
